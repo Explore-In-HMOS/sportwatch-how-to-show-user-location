@@ -1,0 +1,7 @@
+<div class="container">
+    <div class="container">
+        <text class="title">
+            Lat: {{ lat }},\nLong: {{ long }}
+        </text>
+    </div>
+</div>
