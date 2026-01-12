@@ -1,14 +1,14 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
-# How To Show User Location at Lite
+# Show User Location Lite
 
 HarmonyOS application that retrieves the user's current location (latitude and longitude) using LocationKit and displays it cleanly on screen.
 
 # Preview
 
-<div>
+<p align="left">
   <img src="./screenshots/screenshot1.png" width="25%">
-</div>
+</p>
 
 # Use Cases
 

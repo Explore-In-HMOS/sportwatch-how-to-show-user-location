@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.showuserlocation",
+    "bundleName": "com.hmosdemos.lite_wearable.sportwatch_how_to_show_user_location",
     "vendor": "hmosdemos",
     "version": {
       "code": 1000000,
